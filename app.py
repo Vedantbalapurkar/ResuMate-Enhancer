@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #API key from Google Maker Suite
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key="AIzaSyBlFlz8ZWICrubpTjO1dTTEVzEqI5Kv4AE")
 
 HOME = "Home"
 CHECKER = "Checker"
