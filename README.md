@@ -2,6 +2,10 @@
 
 Supercharge your job search with ResuMate Enhancer! 🌟 This powerful application is designed to assist job seekers in optimizing their resumes for success. Whether you're aiming to boost your ATS (Applicant Tracking System) score or align your resume with a specific job description, ResuMate Enhancer provides personalized insights and recommendations.
 
+## Project Demo
+
+- https://resumate-enhancer.streamlit.app/
+
 ## ✨ Features
 
 - **Resume Checker**:
